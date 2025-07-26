@@ -53,16 +53,6 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/biokpo-amachree/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=ffe6a7&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"  />
   </a>
@@ -96,10 +86,6 @@ My mission is to help data professionals to be good at Power BI.
   <img src="https://github-readme-stats.vercel.app/api?username=Songonge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Songonge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Songonge/Songonge/output/snake.svg" alt="Snake animation" />
 
 ###
 
