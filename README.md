@@ -94,7 +94,7 @@ My mission is to help data professionals to be good at Power BI.
   * SQL
   
 ## Completed Projects
-
+### 1. Retail Sales Analysis: This project talks about retails sales in Nigeria.
 
 
 
