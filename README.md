@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **test.example.com**
 
 - ⚡ Fun fact **I think I am easy-going**
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=songonge&show_icons=true&locale=en&layout=compact" alt="songonge" /></p>
 
-
+-->
 
 
 <h2 align="left">Hi 👋! My name is Victor and I'm a Data Analyst from Nigeria</h2>
