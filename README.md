@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋 My name is Victor
 
 - 🔭 I’m currently working on Data Analytics
@@ -8,10 +9,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His/Him
 
-<!--
 **HopeVictor/HopeVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
+
 
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **test.example.com**
 
 - ⚡ Fun fact **I think I am easy-going**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
