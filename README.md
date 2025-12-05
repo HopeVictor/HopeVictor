@@ -32,6 +32,7 @@ My mission is to help data professionals to be good at Power BI.
 1. Retail Sales Analysis: This project talks about retails sales in Nigeria.
 2. [Pizza Sales Analysis](https://github.com/HopeVictor/Projects): This project analyzes pizzas.
 3. [SQL Projects](https://github.com/HopeVictor/SQL-Projects)
+4. [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGVlYjUzNGUtOGQyYS00NGFhLWExOGItMjU3NGExNDkyZDUwIiwidCI6ImI4YTczMWUzLTE2NjAtNDNiZS1hNzY3LTdiNGQ5NzBhODM0MCJ9)
 
 
 
