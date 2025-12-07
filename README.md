@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Victor and I'm a Data Analyst from Nigeria</h2>
 
 ###
@@ -17,6 +18,7 @@
 ###
 
 ## Mission
+---
 My mission is to help data professionals to be good at Power BI.
 
 ## :hammer_and_wrench: Skills
@@ -32,14 +34,12 @@ My mission is to help data professionals to be good at Power BI.
 1. Retail Sales Analysis: This project talks about retails sales in Nigeria.
 2. [Pizza Sales Analysis](https://github.com/HopeVictor/Projects): This project analyzes pizzas.
 3. [SQL Projects](https://github.com/HopeVictor/SQL-Projects)
-4. [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGVlYjUzNGUtOGQyYS00NGFhLWExOGItMjU3NGExNDkyZDUwIiwidCI6ImI4YTczMWUzLTE2NjAtNDNiZS1hNzY3LTdiNGQ5NzBhODM0MCJ9)
+
+## PowerBI Projects
+1.[Email Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGVlYjUzNGUtOGQyYS00NGFhLWExOGItMjU3NGExNDkyZDUwIiwidCI6ImI4YTczMWUzLTE2NjAtNDNiZS1hNzY3LTdiNGQ5NzBhODM0MCJ9)
+
+<div align="center"><img width="800" height="713" alt="image" src="https://github.com/user-attachments/assets/65357487-b37e-4234-8e01-719fa54b721e" />
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HopeVictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HopeVictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
