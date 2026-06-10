@@ -10,7 +10,7 @@
   <a href="mailto:amachreevictorb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Reach&logo=gmail&label=Gmail&color=bc6c25&logoColor=white&labelColor=D14836&style=flat" height="33" alt="gmail logo"  />
   </a>
-  <a href="www.x.com/biokpoamachree" target="_blank">
+  <a href="https://x.com/BiokpoAmachree" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=twitter&label=Twitter&color=bc6c25&logoColor=white&labelColor=1DA1F2&style=flat" height="33" alt="twitter logo"  />
   </a>
 </div>
