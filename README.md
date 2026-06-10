@@ -31,14 +31,10 @@ My mission is to help data professionals to be good at Power BI.
   * SQL
   
 ## Completed Projects
-1. Retail Sales Analysis: This project talks about retails sales in Nigeria.
-2. [Pizza Sales Analysis](https://github.com/HopeVictor/Projects): This project analyzes pizzas.
+1. [Power BI Projects]
+2. [Excel Projects](https://github.com/HopeVictor/Projects): This project analyzes pizzas.
 3. [SQL Projects](https://github.com/HopeVictor/SQL-Projects)
 
-## PowerBI Projects
-1.[Email Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGVlYjUzNGUtOGQyYS00NGFhLWExOGItMjU3NGExNDkyZDUwIiwidCI6ImI4YTczMWUzLTE2NjAtNDNiZS1hNzY3LTdiNGQ5NzBhODM0MCJ9)
-
-<div align="center"><img width="800" height="713" alt="image" src="https://github.com/user-attachments/assets/65357487-b37e-4234-8e01-719fa54b721e" />
 
 
 
