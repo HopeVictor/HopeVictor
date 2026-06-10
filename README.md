@@ -19,7 +19,7 @@
 
 ## Mission
 ---
-My mission is to help data professionals to be good at Power BI.
+My mission is to build analytical solutions, teach and mentor professionals.
 
 ## :hammer_and_wrench: Skills
 * Business Intelligence
