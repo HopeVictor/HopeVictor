@@ -31,8 +31,8 @@ My mission is to help data professionals to be good at Power BI.
   * SQL
   
 ## Completed Projects
-1. [Power BI Projects]
-2. [Excel Projects](https://github.com/HopeVictor/Projects): This project analyzes pizzas.
+1. [Power BI Projects](https://github.com/HopeVictor/PowerBI_Projects)
+2. [Excel Projects](https://github.com/HopeVictor/Projects)
 3. [SQL Projects](https://github.com/HopeVictor/SQL-Projects)
 
 
